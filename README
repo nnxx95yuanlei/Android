@@ -1,0 +1,16 @@
+# Android
+
+#uboot:2016-03
+
+#system:android M
+
+#kernel:4.4.1
+
+#framework: self
+
+
+package:yl app
+
+framework:yl service 
+
+kernel:yl driver
